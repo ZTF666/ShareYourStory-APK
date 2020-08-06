@@ -5,7 +5,7 @@
 
 [Share Your Story](https://shareyour-story.web.app/) .
 
-<p>This mobile app is ⚠️NOTHING BUT A WEBVIWER⚠️ that renders the website in a more mobile friendly way . </p>
+<p>This mobile app is ⚠️NOTHING BUT A WEBVIEWER⚠️ that renders the website in a more mobile friendly way . </p>
 </div>
 
 <div align="center">
