@@ -1,7 +1,7 @@
 # Share Your Story - APK
 
 <div align="center">
-<p>This is the android code for the mobile app version of my web app </p>
+<p>This is the code for the mobile app version of my web app  </p>
 
 [Share Your Story](https://shareyour-story.web.app/) .
 
