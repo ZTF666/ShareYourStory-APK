@@ -74,8 +74,16 @@ you can contact me at ZTF666@protonmail.ch
 <br><br>
 <strong><p>Made with 💘 ZTF666 - N.EA</p> </strong>
 
-Illustrations by the cool people at : [Pixeltrue](https://www.pixeltrue.com/free-illustrations)
-Illustrations by the cool people at : [FreePik](https://www.freepik.com/vectors/people)
-Backgrounds by the nice Matt at : [SVG Background](https://www.svgbackgrounds.com/)
+<p>Illustrations by the cool people at : <p>
+
+[Pixeltrue](https://www.pixeltrue.com/free-illustrations)
+
+<p>Illustrations by the cool people at : </p>
+
+[FreePik](https://www.freepik.com/vectors/people)
+
+<p>Backgrounds by the nice Matt at :</p>
+
+[SVG Background](https://www.svgbackgrounds.com/)
 
 </div>
