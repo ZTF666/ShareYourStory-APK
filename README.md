@@ -16,7 +16,7 @@
 ## How does it work :
 
 <div align="center">
-<p>Nothing fancy , this uses a webview that loads the url of the webapp and simply display its content into a more friendly way that just opening it in a browser</p>
+<p>Nothing fancy , this uses a webview that loads the url of the webapp and simply display its content into a more friendly way than just opening it in a browser on your phone</p>
 </div>
 
 ## Code :
